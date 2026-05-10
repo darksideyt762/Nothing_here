@@ -1,0 +1,2022 @@
+#---------------skin----------#
+1101001116 | Jack-o'-lantern - AKM (Lv. 7)
+#----------------attachs---------#
+1010011102 | 4x Scope
+1010011103 | 2x Scope
+1010011104 | Holographic Sight
+1010011105 | Red Dot Sight
+1010011106 | Flash Hider
+1010011107 | Compensator
+1010011108 | Suppressor
+1010011109 | Extended Mag
+1010011112 | Extended Quickdraw Mag
+#--------------------------------------#
+
+#---------------skin----------#
+1101001128 | Ghillie Dragon - AKM (Lv. 7)
+#----------------attachs---------#
+1010011222 | 4x Scope
+1010011223 | 3x Scope
+1010011224 | 2x Scope
+1010011225 | Holographic Sight
+1010011226 | Red Dot Sight
+1010011227 | Extended Mag
+1010011228 | Quickdraw Mag
+1010011229 | Extended Quickdraw Mag
+1010011232 | Flash Hider
+1010011233 | Compensator
+1010011234 | Suppressor
+#--------------------------------------#
+
+#---------------skin----------#
+1101001154 | Codebreaker - AKM (Lv. 7)
+#----------------attachs---------#
+1010011482 | 4x Scope
+1010011483 | 3x Scope
+1010011484 | 2x Scope
+1010011485 | Holographic Sight
+1010011486 | Red Dot Sight
+1010011487 | Flash Hider
+1010011488 | Compensator
+1010011489 | Suppressor
+1010011490 | Extended Mag
+1010011493 | Quickdraw Mag
+1010011494 | Extended Quickdraw Mag
+1010011497 | 6x Scope
+1010011498 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101001174 | Wandering Tyrant - AKM (Lv. 8)
+#----------------attachs---------#
+1010011662 | 4x Scope
+1010011663 | 3x Scope
+1010011664 | 2x Scope
+1010011665 | Holographic Sight
+1010011666 | Red Dot Sight
+1010011667 | Flash Hider
+1010011668 | Compensator
+1010011669 | Suppressor
+1010011670 | Extended Mag
+1010011673 | Quickdraw Mag
+1010011674 | Extended Quickdraw Mag
+#--------------------------------------#
+
+#---------------skin----------#
+1101001213 | Starsea Admiral - AKM (Lv. 8)
+#----------------attachs---------#
+1010012062 | 4x Scope
+1010012063 | 3x Scope
+1010012064 | 2x Scope
+1010012065 | Holographic Sight
+1010012066 | Red Dot Sight
+1010012067 | Flash Hider
+1010012068 | Compensator
+1010012069 | Suppressor
+1010012070 | Extended Mag
+1010012072 | Quickdraw Mag
+1010012073 | Extended Quickdraw Mag
+1010012074 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101001231 | Bunny Munchkin - AKM (Lv. 7)
+#----------------attachs---------#
+1010012075 | 6x Scope
+1010012262 | 4x Scope
+1010012263 | 3x Scope
+1010012264 | 2x Scope
+1010012265 | Holographic Sight
+1010012266 | Red Dot Sight
+1010012267 | Flash Hider
+1010012268 | Compensator
+1010012269 | Suppressor
+1010012272 | Extended Mag
+1010012273 | Quickdraw Mag
+1010012274 | Extended Quickdraw Mag
+1010012275 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101001242 | Decisive Day - AKM (Lv. 8)
+#----------------attachs---------#
+1010012276 | 6x Scope
+1010012352 | 4x Scope
+1010012353 | 3x Scope
+1010012354 | 2x Scope
+1010012355 | Holographic Sight
+1010012356 | Red Dot Sight
+1010012357 | Flash Hider
+1010012358 | Compensator
+1010012359 | Suppressor
+1010012362 | Extended Mag
+1010012363 | Quickdraw Mag
+1010012364 | Extended Quickdraw Mag
+1010012365 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101001249 | Lightshift Temple (Divine Moon) - AKM (Lv. 7)
+#----------------attachs---------#
+1010012366 | 6x Scope
+1010012432 | 4x Scope
+1010012433 | 3x Scope
+1010012434 | 2x Scope
+1010012435 | Holographic Sight
+1010012436 | Red Dot Sight
+1010012437 | Flash Hider
+1010012438 | Compensator
+1010012439 | Suppressor
+1010012442 | Extended Mag
+1010012443 | Quickdraw Mag
+1010012444 | Extended Quickdraw Mag
+1010012445 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101001256 | Lightshift Temple (Gold Feather) - AKM (Lv. 7)
+#----------------attachs---------#
+1010012446 | 6x Scope
+1010012582 | 6x Scope
+1010012583 | 4x Scope
+1010012584 | 3x Scope
+1010012585 | 2x Scope
+1010012586 | Holographic Sight
+1010012587 | Red Dot Sight
+1010012588 | Flash Hider
+1010012589 | Compensator
+1010012590 | Suppressor
+1010012592 | Extended Mag
+1010012593 | Quickdraw Mag
+1010012594 | Extended Quickdraw Mag
+1010012595 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101001265 | Sandspring Dominion - AKM (Lv. 8)
+#----------------attachs---------#
+1010012692 | 6x Scope
+1010012693 | 4x Scope
+1010012694 | 3x Scope
+1010012695 | 2x Scope
+1010012696 | Holographic Sight
+1010012697 | Red Dot Sight
+1010012698 | Flash Hider
+1010012699 | Compensator
+1010012700 | Suppressor
+1010012702 | Extended Mag
+1010012703 | Quickdraw Mag
+1010012704 | Extended Quickdraw Mag
+1010012705 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101002029 | Blood & Bones - M16A4 (Lv. 7)
+#----------------attachs---------#
+1010020235 | 6x Scope
+1010020236 | 4x Scope
+1010020237 | 3x Scope
+1010020238 | 2x Scope
+1010020239 | Holographic Sight
+1010020240 | Red Dot Sight
+1010020246 | Extended Mag
+1010020247 | Quickdraw Mag
+1010020248 | Extended Quickdraw Mag
+1010020249 | Flash Hider
+1010020250 | Compensator
+1010020255 | Suppressor
+1010020256 | Canted Sight
+1010020257 | Tactical Stock
+1010020258 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101002056 | Aurora Pulse - M16A4 (Lv. 7)
+#----------------attachs---------#
+1010020505 | 6x Scope
+1010020506 | 4x Scope
+1010020507 | 3x Scope
+1010020508 | 2x Scope
+1010020509 | Holographic Sight
+1010020510 | Red Dot Sight
+1010020516 | Extended Mag
+1010020517 | Quickdraw Mag
+1010020518 | Extended Quickdraw Mag
+1010020519 | Flash Hider
+#--------------------------------------#
+
+#---------------skin----------#
+1101002081 | Skeletal Core - M16A4 (Lv. 7)
+#----------------attachs---------#
+1010020755 | 4x Scope
+1010020756 | 3x Scope
+1010020757 | 2x Scope
+1010020758 | Holographic Sight
+1010020759 | Red Dot Sight
+1010020760 | Extended Mag
+1010020766 | Quickdraw Mag
+1010020767 | Extended Quickdraw Mag
+1010020768 | Flash Hider
+1010020769 | Compensator
+1010020770 | Suppressor
+1010020775 | Tactical Stock
+1010020776 | 6x Scope
+1010020777 | Canted Sight
+1010020778 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101003070 | Enchanted Pumpkin - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010030642 | 6x Scope
+1010030643 | 4x Scope
+1010030644 | 3x Scope
+1010030645 | 2x Scope
+1010030646 | Holographic Sight
+1010030647 | Red Dot Sight
+1010030648 | Extended Mag
+1010030649 | Quickdraw Mag
+1010030650 | Extended Quickdraw Mag
+1010030653 | Compensator
+1010030654 | Flash Hider
+1010030655 | Suppressor
+1010030656 | Angled Foregrip
+1010030657 | Thumb Grip
+1010030658 | Vertical Foregrip
+1010030659 | Laser Sight
+1010030660 | Light Grip
+1010030662 | Half Grip
+1010030663 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101003080 | Operation Tomorrow - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010030742 | 6x Scope
+1010030743 | 4x Scope
+1010030744 | 3x Scope
+1010030745 | 2x Scope
+1010030746 | Holographic Sight
+1010030747 | Red Dot Sight
+1010030748 | Extended Mag
+1010030749 | Quickdraw Mag
+1010030750 | Extended Quickdraw Mag
+1010030753 | Compensator
+1010030754 | Flash Hider
+1010030755 | Suppressor
+1010030756 | Angled Foregrip
+1010030757 | Thumb Grip
+1010030758 | Vertical Foregrip
+1010030759 | Laser Sight
+1010030760 | Light Grip
+1010030762 | Half Grip
+1010030763 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101003099 | Drop the Bass - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010030932 | 6x Scope
+1010030933 | 4x Scope
+1010030934 | 3x Scope
+1010030935 | 2x Scope
+1010030936 | Holographic Sight
+1010030937 | Red Dot Sight
+1010030938 | Extended Mag
+1010030939 | Quickdraw Mag
+1010030942 | Extended Quickdraw Mag
+1010030943 | Flash Hider
+1010030944 | Compensator
+1010030945 | Suppressor
+1010030946 | Angled Foregrip
+1010030947 | Vertical Foregrip
+1010030948 | Light Grip
+1010030949 | Half Grip
+1010030952 | Thumb Grip
+1010030953 | Laser Sight
+1010030955 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101003119 | Hextech Crystal - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010031132 | 4x Scope
+1010031133 | 3x Scope
+1010031134 | 2x Scope
+1010031135 | Holographic Sight
+1010031136 | Red Dot Sight
+1010031137 | Extended Mag
+1010031138 | Quickdraw Mag
+1010031139 | Flash Hider
+1010031140 | Compensator
+1010031142 | Suppressor
+1010031143 | Angled Foregrip
+1010031144 | Vertical Foregrip
+1010031145 | Thumb Grip
+1010031146 | Extended Quickdraw Mag
+#--------------------------------------#
+
+#---------------skin----------#
+1101003146 | Thorn of Malice - SCAR-L (Lv. 8)
+#----------------attachs---------#
+1010031222 | 4x Scope
+1010031223 | 3x Scope
+1010031224 | 2x Scope
+1010031225 | Holographic Sight
+1010031226 | Red Dot Sight
+1010031227 | Extended Mag
+1010031228 | Quickdraw Mag
+1010031229 | Flash Hider
+1010031230 | Compensator
+1010031237 | Suppressor
+1010031238 | Angled Foregrip
+1010031239 | Vertical Foregrip
+1010031240 | Thumb Grip
+1010031242 | Extended Quickdraw Mag
+#--------------------------------------#
+
+#---------------skin----------#
+1101003167 | Bloodstained Nemesis - SCAR-L (Lv. 8)
+#----------------attachs---------#
+1010031602 | 4x Scope
+1010031603 | 3x Scope
+1010031604 | 2x Scope
+1010031605 | Holographic Sight
+1010031606 | Red Dot Sight
+1010031607 | Extended Mag
+1010031608 | Quickdraw Mag
+1010031609 | Flash Hider
+1010031610 | Compensator
+1010031613 | Suppressor
+1010031614 | Angled Foregrip
+1010031615 | Vertical Foregrip
+1010031616 | Thumb Grip
+1010031617 | Extended Quickdraw Mag
+1010031618 | 6x Scope
+1010031619 | Laser Sight
+1010031620 | Light Grip
+1010031622 | Half Grip
+1010031623 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101003181 | Folly's Clasp - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010031752 | 6x Scope
+1010031753 | 4x Scope
+1010031754 | 3x Scope
+1010031755 | 2x Scope
+1010031756 | Holographic Sight
+1010031757 | Red Dot Sight
+1010031758 | Extended Mag
+1010031759 | Quickdraw Mag
+1010031763 | Extended Quickdraw Mag
+1010031764 | Compensator
+1010031765 | Flash Hider
+1010031766 | Suppressor
+1010031767 | Angled Foregrip
+1010031768 | Thumb Grip
+1010031769 | Vertical Foregrip
+1010031772 | Laser Sight
+1010031773 | Light Grip
+1010031774 | Half Grip
+1010031775 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101003195 | Serene Lumina - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010031901 | 6x Scope
+1010031902 | 4x Scope
+1010031903 | 3x Scope
+1010031904 | 2x Scope
+1010031905 | Holographic Sight
+1010031906 | Red Dot Sight
+1010031907 | Extended Mag
+1010031908 | Quickdraw Mag
+1010031909 | Extended Quickdraw Mag
+1010031911 | Compensator
+1010031912 | Flash Hider
+1010031913 | Suppressor
+1010031914 | Angled Foregrip
+1010031915 | Thumb Grip
+1010031916 | Vertical Foregrip
+1010031917 | Laser Sight
+1010031918 | Light Grip
+1010031919 | Half Grip
+1010031921 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101003208 | Fantastical Realm - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010032022 | 6x Scope
+1010032023 | 4x Scope
+1010032024 | 3x Scope
+1010032025 | 2x Scope
+1010032026 | Holographic Sight
+1010032027 | Red Dot Sight
+1010032028 | Extended Mag
+1010032029 | Quickdraw Mag
+1010032032 | Extended Quickdraw Mag
+1010032033 | Compensator
+1010032034 | Flash Hider
+1010032036 | Angled Foregrip
+1010032037 | Thumb Grip
+1010032038 | Vertical Foregrip
+1010032039 | Laser Sight
+1010032042 | Light Grip
+1010032043 | Half Grip
+1010032044 | Canted Sight
+1010032045 | Suppressor
+#--------------------------------------#
+
+#---------------skin----------#
+1101003219 | Soulbound Prism - SCAR-L (Lv. 7)
+#----------------attachs---------#
+1010032202 | 6x Scope
+1010032203 | 4x Scope
+1010032204 | 3x Scope
+1010032205 | 2x Scope
+1010032206 | Holographic Sight
+1010032207 | Red Dot Sight
+1010032208 | Extended Mag
+1010032209 | Quickdraw Mag
+1010032210 | Extended Quickdraw Mag
+1010032222 | Compensator
+1010032223 | Flash Hider
+1010032224 | Suppressor
+1010032225 | Angled Foregrip
+1010032226 | Thumb Grip
+1010032227 | Vertical Foregrip
+1010032228 | Laser Sight
+1010032229 | Light Grip
+1010032230 | Half Grip
+1010032232 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101004046 | Glacier - M416 (Lv. 7)
+#----------------attachs---------#
+1010040466 | 4x Scope
+1010040467 | 3x Scope
+1010040468 | 2x Scope
+1010040469 | Holographic Sight
+1010040470 | Red Dot Sight
+1010040471 | Extended Mag
+1010040472 | Quickdraw Mag
+1010040473 | Extended Quickdraw Mag
+1010040474 | Flash Hider
+1010040475 | Compensator
+1010040476 | Suppressor
+1010040477 | Angled Foregrip
+1010040478 | Thumb Grip
+1010040479 | Vertical Foregrip
+1010040480 | Tactical Stock
+1010040481 | 6x Scope
+1010040482 | Light Grip
+1010040483 | Half Grip
+1010040484 | Laser Sight
+1010040485 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101004062 | The Fool - M416 (Lv. 7)
+#----------------attachs---------#
+1010040564 | 6x Scope
+1010040565 | 4x Scope
+1010040566 | 3x Scope
+1010040567 | 2x Scope
+1010040568 | Holographic Sight
+1010040569 | Red Dot Sight
+1010040570 | Extended Mag
+1010040575 | Quickdraw Mag
+1010040576 | Extended Quickdraw Mag
+1010040577 | Compensator
+1010040578 | Flash Hider
+1010040579 | Suppressor
+1010040580 | Angled Foregrip
+1010040584 | Thumb Grip
+1010040585 | Vertical Foregrip
+1010040586 | Tactical Stock
+1010040587 | Light Grip
+1010040588 | Half Grip
+1010040589 | Laser Sight
+1010040590 | Canted Sight
+1010040594 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101004098 | Call of the Wild - M416 (Lv. 7)
+#----------------attachs---------#
+1010040924 | Flash Hider
+1010040925 | Suppressor
+1010040926 | Compensator
+1010040927 | 4x Scope
+1010040928 | 3x Scope
+1010040929 | 2x Scope
+1010040934 | Holographic Sight
+1010040935 | Red Dot Sight
+1010040936 | Tactical Stock
+1010040937 | Extended Mag
+1010040938 | Extended Quickdraw Mag
+1010040939 | Vertical Foregrip
+1010040944 | Thumb Grip
+1010040945 | Angled Foregrip
+#--------------------------------------#
+
+#---------------skin----------#
+1101004138 | TechnoCore - M416 (Lv. 7)
+#----------------attachs---------#
+1010041124 | 4x Scope
+1010041125 | 3x Scope
+1010041126 | 2x Scope
+1010041127 | Holographic Sight
+1010041128 | Red Dot Sight
+1010041129 | Extended Mag
+1010041134 | Quickdraw Mag
+1010041135 | Extended Quickdraw Mag
+1010041136 | Flash Hider
+1010041137 | Compensator
+1010041138 | Suppressor
+1010041139 | Angled Foregrip
+1010041144 | Thumb Grip
+1010041145 | Vertical Foregrip
+1010041146 | Tactical Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101004163 | Imperial Splendor - M416 (Lv. 8)
+#----------------attachs---------#
+1010041554 | 4x Scope
+1010041560 | 3x Scope
+1010041564 | 2x Scope
+1010041565 | Holographic Sight
+1010041566 | Red Dot Sight
+1010041567 | Extended Mag
+1010041568 | Quickdraw Mag
+1010041569 | Extended Quickdraw Mag
+1010041570 | Flash Hider
+1010041574 | Compensator
+1010041575 | Suppressor
+1010041576 | Angled Foregrip
+1010041577 | Thumb Grip
+1010041578 | Vertical Foregrip
+1010041579 | Tactical Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101004201 | Silver Guru - M416 (Lv. 8)
+#----------------attachs---------#
+1010041944 | 4x Scope
+1010041945 | 3x Scope
+1010041946 | 2x Scope
+1010041947 | Holographic Sight
+1010041948 | Red Dot Sight
+1010041949 | Extended Mag
+1010041950 | Quickdraw Mag
+1010041955 | Extended Quickdraw Mag
+1010041956 | Flash Hider
+1010041957 | Compensator
+1010041958 | Suppressor
+1010041959 | Angled Foregrip
+1010041960 | Thumb Grip
+1010041965 | Vertical Foregrip
+1010041966 | Tactical Stock
+1010041967 | 6x Scope
+#--------------------------------------#
+
+#---------------skin----------#
+1101004209 | Tidal Embrace - M416 (Lv. 8)
+#----------------attachs---------#
+1010042024 | 6x Scope
+1010042025 | 4x Scope
+1010042026 | 3x Scope
+1010042027 | 2x Scope
+1010042028 | Holographic Sight
+1010042029 | Red Dot Sight
+1010042034 | Extended Mag
+1010042035 | Quickdraw Mag
+1010042036 | Extended Quickdraw Mag
+1010042037 | Compensator
+1010042038 | Flash Hider
+1010042039 | Suppressor
+1010042044 | Angled Foregrip
+1010042045 | Thumb Grip
+1010042046 | Vertical Foregrip
+1010042047 | Tactical Stock
+1010042048 | Light Grip
+1010042049 | Half Grip
+1010042054 | Laser Sight
+1010042055 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101004218 | Shinobi Kami - M416 (Lv. 8)
+#----------------attachs---------#
+1010042114 | 6x Scope
+1010042115 | 4x Scope
+1010042116 | 3x Scope
+1010042117 | 2x Scope
+1010042118 | Holographic Sight
+1010042119 | Red Dot Sight
+1010042124 | Extended Mag
+1010042125 | Quickdraw Mag
+1010042126 | Extended Quickdraw Mag
+1010042127 | Compensator
+1010042128 | Flash Hider
+1010042129 | Suppressor
+1010042134 | Angled Foregrip
+1010042135 | Thumb Grip
+1010042136 | Vertical Foregrip
+1010042137 | Tactical Stock
+1010042138 | Light Grip
+1010042139 | Half Grip
+1010042144 | Laser Sight
+1010042145 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101004226 | Sealed Nether - M416 (Lv. 8)
+#----------------attachs---------#
+1010042217 | 6x Scope
+1010042218 | 4x Scope
+1010042219 | 3x Scope
+1010042231 | 2x Scope
+1010042232 | Holographic Sight
+1010042233 | Red Dot Sight
+1010042234 | Extended Mag
+1010042235 | Quickdraw Mag
+1010042236 | Extended Quickdraw Mag
+1010042237 | Compensator
+1010042238 | Flash Hider
+1010042239 | Suppressor
+1010042241 | Angled Foregrip
+1010042242 | Thumb Grip
+1010042243 | Vertical Foregrip
+1010042244 | Tactical Stock
+1010042245 | Light Grip
+1010042246 | Half Grip
+1010042247 | Laser Sight
+1010042248 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101004236 | Roaring Immolation - M416 (Lv. 8)
+#----------------attachs---------#
+1010042294 | 6x Scope
+1010042295 | 4x Scope
+1010042296 | 3x Scope
+1010042297 | 2x Scope
+1010042298 | Holographic Sight
+1010042299 | Red Dot Sight
+1010042300 | Extended Mag
+1010042304 | Quickdraw Mag
+1010042305 | Extended Quickdraw Mag
+1010042306 | Compensator
+1010042307 | Flash Hider
+1010042308 | Suppressor
+1010042309 | Angled Foregrip
+1010042310 | Thumb Grip
+1010042314 | Vertical Foregrip
+1010042315 | Tactical Stock
+1010042316 | Light Grip
+1010042317 | Half Grip
+1010042318 | Laser Sight
+1010042319 | Canted Sight
+1010042326 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101004246 | Crimson Skyblade - M416 (Lv. 8)
+#----------------attachs---------#
+1010042394 | 6x Scope
+1010042395 | 4x Scope
+1010042396 | 3x Scope
+1010042397 | 2x Scope
+1010042398 | Holographic Sight
+1010042399 | Red Dot Sight
+1010042400 | Extended Mag
+1010042404 | Quickdraw Mag
+1010042405 | Extended Quickdraw Mag
+1010042406 | Flash Hider
+1010042407 | Compensator
+1010042408 | Suppressor
+1010042409 | Angled Foregrip
+1010042410 | Thumb Grip
+1010042414 | Vertical Foregrip
+1010042415 | Tactical Stock
+1010042416 | Light Grip
+1010042417 | Half Grip
+1010042418 | Laser Sight
+1010042419 | Canted Sight
+1010042420 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101005038 | Ryomen Sukuna - Groza (Lv. 7)
+#----------------attachs---------#
+1010050322 | 4x Scope
+1010050323 | 3x Scope
+1010050324 | 2x Scope
+1010050325 | Holographic Sight
+1010050326 | Red Dot Sight
+1010050327 | Suppressor
+1010050328 | Extended Mag
+1010050329 | Quickdraw Mag
+1010050330 | Extended Quickdraw Mag
+1010050334 | 6x Scope
+#--------------------------------------#
+
+#---------------skin----------#
+1101005052 | River Styx - Groza (Lv. 7)
+#----------------attachs---------#
+1010050462 | 4x Scope
+1010050463 | 3x Scope
+1010050464 | 2x Scope
+1010050465 | Holographic Sight
+1010050466 | Red Dot Sight
+1010050467 | Suppressor
+1010050468 | Extended Mag
+1010050469 | Quickdraw Mag
+1010050470 | Extended Quickdraw Mag
+1010050473 | 6x Scope
+#--------------------------------------#
+
+#---------------skin----------#
+1101005098 | Burning Godzilla - Groza (Lv. 7)
+#----------------attachs---------#
+1010050922 | 6x Scope
+1010050923 | 4x Scope
+1010050924 | 3x Scope
+1010050925 | 2x Scope
+1010050926 | Holographic Sight
+1010050927 | Red Dot Sight
+1010050928 | Suppressor
+1010050929 | Extended Mag
+1010050930 | Quickdraw Mag
+1010050932 | Extended Quickdraw Mag
+#--------------------------------------#
+
+#---------------skin----------#
+1101006062 | Forsaken Glace - AUG (Lv. 8)
+#----------------attachs---------#
+1010060551 | 6x Scope
+1010060552 | 4x Scope
+1010060553 | 3x Scope
+1010060554 | 2x Scope
+1010060561 | Holographic Sight
+1010060562 | Red Dot Sight
+1010060563 | Extended Mag
+1010060564 | Quickdraw Mag
+1010060571 | Extended Quickdraw Mag
+1010060572 | Compensator
+1010060573 | Flash Hider
+1010060574 | Suppressor
+1010060581 | Angled Foregrip
+1010060582 | Thumb Grip
+1010060583 | Vertical Foregrip
+1010060584 | Laser Sight
+1010060591 | Light Grip
+1010060592 | Half Grip
+1010060593 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101006075 | Abyssal Howl - AUG (Lv. 7)
+#----------------attachs---------#
+1010060691 | 6x Scope
+1010060692 | 4x Scope
+1010060693 | 3x Scope
+1010060694 | 2x Scope
+1010060695 | Holographic Sight
+1010060696 | Red Dot Sight
+1010060697 | Extended Mag
+1010060698 | Quickdraw Mag
+1010060699 | Extended Quickdraw Mag
+1010060701 | Compensator
+1010060702 | Flash Hider
+1010060703 | Suppressor
+1010060704 | Angled Foregrip
+1010060705 | Thumb Grip
+1010060706 | Vertical Foregrip
+1010060707 | Laser Sight
+1010060708 | Light Grip
+1010060709 | Half Grip
+1010060711 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101006085 | Nyxen Rose - AUG (Lv. 8)
+#----------------attachs---------#
+1010060783 | 6x Scope
+1010060784 | 4x Scope
+1010060785 | 3x Scope
+1010060786 | 2x Scope
+1010060787 | Holographic Sight
+1010060788 | Red Dot Sight
+1010060789 | Extended Mag
+1010060793 | Quickdraw Mag
+1010060794 | Extended Quickdraw Mag
+1010060795 | Compensator
+1010060796 | Flash Hider
+1010060797 | Suppressor
+1010060798 | Angled Foregrip
+1010060799 | Thumb Grip
+1010060800 | Vertical Foregrip
+1010060803 | Laser Sight
+1010060804 | Light Grip
+1010060805 | Half Grip
+1010060806 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101007046 | Nether Phantom - QBZ (Lv. 7)
+#----------------attachs---------#
+1010070402 | 4x Scope
+1010070403 | 3x Scope
+1010070404 | 2x Scope
+1010070405 | Holographic Sight
+1010070406 | Red Dot Sight
+1010070407 | Extended Mag
+1010070408 | Quickdraw Mag
+1010070409 | Extended Quickdraw Mag
+1010070410 | Flash Hider
+1010070413 | Compensator
+1010070414 | Suppressor
+1010070415 | Angled Foregrip
+1010070416 | Thumb Grip
+1010070417 | Vertical Foregrip
+1010070418 | 6x Scope
+1010070419 | Laser Sight
+1010070420 | Light Grip
+1010070422 | Half Grip
+1010070423 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101007062 | Fatal Foil - QBZ (Lv. 7)
+#----------------attachs---------#
+1010070568 | 6x Scope
+1010070569 | 4x Scope
+1010070571 | 3x Scope
+1010070572 | 2x Scope
+1010070573 | Holographic Sight
+1010070574 | Red Dot Sight
+1010070575 | Extended Mag
+1010070576 | Quickdraw Mag
+1010070577 | Extended Quickdraw Mag
+1010070578 | Compensator
+1010070579 | Flash Hider
+1010070581 | Suppressor
+1010070582 | Angled Foregrip
+1010070583 | Thumb Grip
+1010070584 | Vertical Foregrip
+1010070585 | Light Grip
+1010070586 | Half Grip
+1010070587 | Laser Sight
+1010070588 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101007071 | Empyrean Charm - QBZ (Lv. 7)
+#----------------attachs---------#
+1010070652 | 6x Scope
+1010070653 | 4x Scope
+1010070654 | 3x Scope
+1010070655 | 2x Scope
+1010070656 | Holographic Sight
+1010070657 | Red Dot Sight
+1010070658 | Extended Mag
+1010070659 | Quickdraw Mag
+1010070660 | Extended Quickdraw Mag
+1010070662 | Compensator
+1010070663 | Flash Hider
+1010070664 | Suppressor
+1010070665 | Angled Foregrip
+1010070666 | Thumb Grip
+1010070667 | Vertical Foregrip
+1010070668 | Light Grip
+1010070669 | Half Grip
+1010070670 | Laser Sight
+1010070672 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101008051 | Concerto of Love - M762 (Lv. 7)
+#----------------attachs---------#
+1010080452 | 6x Scope
+1010080453 | 4x Scope
+1010080454 | 3x Scope
+1010080455 | 2x Scope
+1010080456 | Holographic Sight
+1010080457 | Red Dot Sight
+1010080458 | Extended Mag
+1010080459 | Quickdraw Mag
+1010080462 | Extended Quickdraw Mag
+1010080463 | Flash Hider
+1010080464 | Compensator
+1010080465 | Suppressor
+1010080466 | Angled Foregrip
+1010080467 | Vertical Foregrip
+1010080468 | Light Grip
+1010080469 | Half Grip
+1010080472 | Thumb Grip
+1010080473 | Laser Sight
+1010080475 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101008061 | Deadly Precision - M762 (Lv. 7)
+#----------------attachs---------#
+1010080553 | 4x Scope
+1010080554 | 3x Scope
+1010080555 | 2x Scope
+1010080556 | Holographic Sight
+1010080557 | Red Dot Sight
+1010080558 | Extended Mag
+1010080559 | Quickdraw Mag
+1010080562 | Extended Quickdraw Mag
+1010080563 | Flash Hider
+1010080564 | Compensator
+1010080565 | Suppressor
+1010080566 | Angled Foregrip
+1010080567 | Vertical Foregrip
+1010080572 | Thumb Grip
+#--------------------------------------#
+
+#---------------skin----------#
+1101008070 | GACKT MOONSAGA - M762 (Lv. 7)
+#----------------attachs---------#
+1010080602 | 4x Scope
+1010080603 | 3x Scope
+1010080604 | 2x Scope
+1010080605 | Holographic Sight
+1010080606 | Red Dot Sight
+1010080607 | Extended Mag
+1010080608 | Quickdraw Mag
+1010080609 | Flash Hider
+1010080612 | Compensator
+1010080613 | Suppressor
+1010080614 | Angled Foregrip
+1010080615 | Vertical Foregrip
+1010080616 | Thumb Grip
+1010080617 | Extended Quickdraw Mag
+#--------------------------------------#
+
+#---------------skin----------#
+1101008081 | Stray Rebellion - M762 (Lv. 8)
+#----------------attachs---------#
+1010080732 | 4x Scope
+1010080733 | 3x Scope
+1010080734 | 2x Scope
+1010080735 | Holographic Sight
+1010080736 | Red Dot Sight
+1010080737 | Extended Mag
+1010080738 | Quickdraw Mag
+1010080739 | Extended Quickdraw Mag
+1010080740 | Flash Hider
+1010080743 | Compensator
+1010080744 | Thumb Grip
+1010080745 | Suppressor
+1010080746 | Angled Foregrip
+1010080747 | Vertical Foregrip
+1010080748 | 6x Scope
+1010080749 | Laser Sight
+1010080750 | Light Grip
+1010080752 | Half Grip
+1010080753 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101008104 | Starcore - M762 (Lv. 8)
+#----------------attachs---------#
+1010080972 | 4x Scope
+1010080973 | 3x Scope
+1010080974 | 2x Scope
+1010080975 | Holographic Sight
+1010080976 | Red Dot Sight
+1010080977 | Extended Mag
+1010080978 | Quickdraw Mag
+1010080979 | Extended Quickdraw Mag
+1010080980 | Flash Hider
+1010080982 | Compensator
+1010080983 | Thumb Grip
+1010080984 | Suppressor
+1010080985 | Angled Foregrip
+1010080986 | Vertical Foregrip
+1010080987 | Half Grip
+1010080988 | Canted Sight
+1010080989 | Light Grip
+1010080992 | 6x Scope
+1010080993 | Laser Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101008116 | Messi Football Icon - M762 (Lv. 7)
+#----------------attachs---------#
+1010081102 | 4x Scope
+1010081103 | 3x Scope
+1010081104 | 2x Scope
+1010081105 | Holographic Sight
+1010081106 | Red Dot Sight
+1010081107 | Extended Mag
+1010081108 | Quickdraw Mag
+1010081109 | Extended Quickdraw Mag
+1010081110 | Flash Hider
+1010081112 | Compensator
+1010081113 | Thumb Grip
+1010081114 | Suppressor
+1010081115 | Angled Foregrip
+1010081116 | Vertical Foregrip
+#--------------------------------------#
+
+#---------------skin----------#
+1101008126 | Noctum Sunder - M762 (Lv. 7)
+#----------------attachs---------#
+1010081202 | 4x Scope
+1010081203 | 3x Scope
+1010081204 | 2x Scope
+1010081205 | Holographic Sight
+1010081206 | Red Dot Sight
+1010081207 | Extended Mag
+1010081208 | Quickdraw Mag
+1010081209 | Extended Quickdraw Mag
+1010081210 | Flash Hider
+1010081213 | Compensator
+1010081214 | Thumb Grip
+1010081215 | Suppressor
+1010081216 | Angled Foregrip
+1010081217 | Vertical Foregrip
+1010081218 | 6x Scope
+1010081219 | Light Grip
+1010081220 | Half Grip
+1010081222 | Laser Sight
+1010081223 | Canted Sight
+1010081225 | Compensator
+1010081226 | Suppressor
+1010081227 | Canted Sight
+1010081228 | Tactical Stock
+1010081229 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101008136 | Luminous Muse - M762 (Lv. 7)
+#----------------attachs---------#
+1010081302 | 6x Scope
+1010081303 | 4x Scope
+1010081304 | 3x Scope
+1010081305 | 2x Scope
+1010081306 | Holographic Sight
+1010081307 | Red Dot Sight
+1010081308 | Extended Mag
+1010081312 | Quickdraw Mag
+1010081313 | Extended Quickdraw Mag
+1010081314 | Flash Hider
+1010081315 | Compensator
+1010081316 | Suppressor
+1010081317 | Angled Foregrip
+1010081318 | Vertical Foregrip
+1010081322 | Light Grip
+1010081323 | Half Grip
+1010081324 | Thumb Grip
+1010081325 | Laser Sight
+1010081326 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101008146 | Skeletal Carver - M762 (Lv. 8)
+#----------------attachs---------#
+1010081391 | 6x Scope
+1010081392 | 4x Scope
+1010081393 | 3x Scope
+1010081394 | 2x Scope
+1010081395 | Holographic Sight
+1010081396 | Red Dot Sight
+1010081397 | Extended Mag
+1010081398 | Quickdraw Mag
+1010081399 | Extended Quickdraw Mag
+1010081401 | Flash Hider
+1010081402 | Compensator
+1010081403 | Suppressor
+1010081404 | Angled Foregrip
+1010081405 | Vertical Foregrip
+1010081406 | Light Grip
+1010081407 | Half Grip
+1010081408 | Thumb Grip
+1010081409 | Laser Sight
+1010081411 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101008154 | Platinum Skeleton - M762 (Lv. 8)
+#----------------attachs---------#
+1010081521 | 6x Scope
+1010081522 | 4x Scope
+1010081523 | 3x Scope
+1010081524 | 2x Scope
+1010081525 | Holographic Sight
+1010081526 | Red Dot Sight
+1010081527 | Extended Mag
+1010081528 | Quickdraw Mag
+1010081529 | Extended Quickdraw Mag
+1010081531 | Flash Hider
+1010081532 | Compensator
+1010081533 | Suppressor
+1010081534 | Angled Foregrip
+1010081541 | Vertical Foregrip
+1010081542 | Light Grip
+1010081543 | Half Grip
+1010081544 | Thumb Grip
+1010081545 | Laser Sight
+1010081546 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101008163 | Soulspecter Shredder - M762 (Lv. 7)
+#----------------attachs---------#
+1010081572 | 6x Scope
+1010081573 | 4x Scope
+1010081574 | 3x Scope
+1010081575 | 2x Scope
+1010081576 | Holographic Sight
+1010081577 | Red Dot Sight
+1010081578 | Extended Mag
+1010081579 | Quickdraw Mag
+1010081580 | Extended Quickdraw Mag
+1010081582 | Flash Hider
+1010081583 | Compensator
+1010081584 | Suppressor
+1010081585 | Angled Foregrip
+1010081586 | Vertical Foregrip
+1010081587 | Light Grip
+1010081588 | Half Grip
+1010081589 | Thumb Grip
+1010081590 | Laser Sight
+1010081592 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101012033 | Sacred Witherbloom - Honey Badger (Lv. 7)
+#----------------attachs---------#
+1010120273 | 6x Scope
+1010120274 | 4x Scope
+1010120275 | 3x Scope
+1010120276 | 2x Scope
+1010120277 | Holographic Sight
+1010120278 | Red Dot Sight
+1010120279 | Extended Mag
+1010120280 | Quickdraw Mag
+1010120283 | Extended Quickdraw Mag
+1010120284 | Flash Hider
+1010120285 | Compensator
+1010120286 | Suppressor
+1010120287 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101100012 | Origin Lumen - FAMAS (Lv. 8)
+#----------------attachs---------#
+1011000053 | 6x Scope
+1011000054 | 4x Scope
+1011000055 | 3x Scope
+1011000056 | 2x Scope
+1011000057 | Holographic Sight
+1011000058 | Red Dot Sight
+1011000066 | Flash Hider
+1011000067 | Compensator
+1011000068 | Suppressor
+1011000073 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101102007 | Beam Blast - ACE32 (Lv. 7)
+#----------------attachs---------#
+1011010013 | 6x Scope
+1011010014 | 4x Scope
+1011010015 | 3x Scope
+1011010016 | 2x Scope
+1011010017 | Holographic Sight
+1011010018 | Red Dot Sight
+1011010019 | Extended Mag
+1011010020 | Quickdraw Mag
+1011010023 | Extended Quickdraw Mag
+1011010024 | Compensator
+1011010025 | Flash Hider
+1011010026 | Suppressor
+1011010027 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101102017 | Icicle Spike - ACE32 (Lv. 7)
+#----------------attachs---------#
+1011020014 | 6x Scope
+1011020015 | 4x Scope
+1011020016 | 3x Scope
+1011020017 | 2x Scope
+1011020018 | Holographic Sight
+1011020019 | Red Dot Sight
+1011020024 | Extended Mag
+1011020025 | Quickdraw Mag
+1011020026 | Extended Quickdraw Mag
+1011020027 | Flash Hider
+1011020028 | Compensator
+1011020029 | Suppressor
+1011020034 | Angled Foregrip
+1011020035 | Thumb Grip
+1011020036 | Vertical Foregrip
+1011020037 | Tactical Stock
+1011020038 | Light Grip
+1011020039 | Half Grip
+1011020044 | Laser Sight
+1011020045 | Canted Sight
+1011020047 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101102025 | Mystic Kraken - ACE32 (Lv. 8)
+#----------------attachs---------#
+1011020114 | 6x Scope
+1011020115 | 4x Scope
+1011020116 | 3x Scope
+1011020117 | 2x Scope
+1011020118 | Holographic Sight
+1011020119 | Red Dot Sight
+1011020124 | Extended Mag
+1011020125 | Quickdraw Mag
+1011020126 | Extended Quickdraw Mag
+1011020127 | Flash Hider
+1011020128 | Compensator
+1011020129 | Suppressor
+1011020134 | Angled Foregrip
+1011020135 | Thumb Grip
+1011020136 | Vertical Foregrip
+1011020137 | Tactical Stock
+1011020138 | Light Grip
+1011020139 | Half Grip
+1011020144 | Laser Sight
+1011020145 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1101102041 | Papillon Kiss - ACE32 (Lv. 8)
+#----------------attachs---------#
+1011020204 | 6x Scope
+1011020205 | 4x Scope
+1011020206 | 3x Scope
+1011020207 | 2x Scope
+1011020208 | Holographic Sight
+1011020209 | Red Dot Sight
+1011020211 | Extended Mag
+1011020212 | Quickdraw Mag
+1011020213 | Extended Quickdraw Mag
+1011020214 | Flash Hider
+1011020215 | Compensator
+1011020216 | Suppressor
+1011020217 | Angled Foregrip
+1011020218 | Thumb Grip
+1011020219 | Vertical Foregrip
+1011020221 | Tactical Stock
+1011020222 | Light Grip
+1011020223 | Half Grip
+1011020224 | Laser Sight
+1011020225 | Canted Sight
+1011020229 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101102049 | Butterfly Whispers - ACE32 (Lv. 8)
+#----------------attachs---------#
+1011020344 | 6x Scope
+1011020345 | 4x Scope
+1011020346 | 3x Scope
+1011020347 | 2x Scope
+1011020348 | Holographic Sight
+1011020349 | Red Dot Sight
+1011020350 | Extended Mag
+1011020354 | Quickdraw Mag
+1011020355 | Extended Quickdraw Mag
+1011020356 | Flash Hider
+1011020357 | Compensator
+1011020358 | Suppressor
+1011020359 | Angled Foregrip
+1011020360 | Thumb Grip
+1011020364 | Vertical Foregrip
+1011020365 | Tactical Stock
+1011020366 | Light Grip
+1011020367 | Half Grip
+1011020368 | Laser Sight
+1011020369 | Canted Sight
+1011020370 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1101101007 | Bloodwing Raven - ASM Abakan (Lv. 7)
+#----------------attachs---------#
+1011020424 | 6x Scope
+1011020425 | 4x Scope
+1011020426 | 3x Scope
+1011020427 | 2x Scope
+1011020428 | Holographic Sight
+1011020429 | Red Dot Sight
+1011020430 | Extended Mag
+1011020434 | Quickdraw Mag
+1011020435 | Extended Quickdraw Mag
+1011020436 | Flash Hider
+1011020437 | Compensator
+1011020438 | Suppressor
+1011020439 | Angled Foregrip
+1011020440 | Thumb Grip
+1011020444 | Vertical Foregrip
+1011020445 | Tactical Stock
+1011020446 | Light Grip
+1011020447 | Half Grip
+1011020448 | Laser Sight
+1011020449 | Canted Sight
+1011020450 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1102001120 | Glacier Hammer - UZI (Lv. 8)
+#----------------attachs---------#
+1020011132 | Holographic Sight
+1020011133 | Red Dot Sight
+1020011134 | Extended Mag
+1020011135 | Quickdraw Mag
+1020011136 | Extended Quickdraw Mag
+1020011137 | Flash Hider
+1020011138 | Compensator
+1020011139 | Suppressor
+1020011142 | Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1102001130 | Chained Inferno - UZI (Lv. 7)
+#----------------attachs---------#
+1020011242 | Holographic Sight
+1020011243 | Red Dot Sight
+1020011244 | Extended Mag
+1020011245 | Quickdraw Mag
+1020011246 | Extended Quickdraw Mag
+1020011247 | Flash Hider
+1020011248 | Compensator
+1020011249 | Suppressor
+1020011250 | Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1102002043 | Dragonfire - UMP45 (Lv. 7)
+#----------------attachs---------#
+1020020372 | Flash Hider
+1020020373 | Suppressor
+1020020374 | Compensator
+1020020375 | 4x Scope
+1020020376 | 3x Scope
+1020020377 | 2x Scope
+1020020378 | Holographic Sight
+1020020379 | Red Dot Sight
+1020020380 | Extended Mag
+1020020383 | Quickdraw Mag
+1020020384 | Extended Quickdraw Mag
+1020020385 | Vertical Foregrip
+1020020386 | Thumb Grip
+1020020387 | Angled Foregrip
+1020020388 | 6x Scope
+#--------------------------------------#
+
+#---------------skin----------#
+1102002061 | Outlawed Fantasy - UMP45 (Lv. 7)
+#----------------attachs---------#
+1020020552 | Flash Hider
+1020020553 | Suppressor
+1020020554 | Compensator
+1020020555 | 4x Scope
+1020020556 | 3x Scope
+1020020557 | 2x Scope
+1020020558 | Holographic Sight
+1020020559 | Red Dot Sight
+1020020562 | Extended Mag
+1020020563 | Quickdraw Mag
+1020020564 | Extended Quickdraw Mag
+1020020565 | Vertical Foregrip
+1020020566 | Thumb Grip
+1020020567 | Angled Foregrip
+1020020569 | Canted Sight
+1020020572 | Laser Sight
+1020020573 | Light Grip
+1020020574 | Half Grip
+1020020578 | 6x Scope
+#--------------------------------------#
+
+#---------------skin----------#
+1102002136 | Cryofrost Shard - UMP45 (Lv. 7)
+#----------------attachs---------#
+1020021302 | 6x Scope
+1020021303 | 4x Scope
+1020021304 | 3x Scope
+1020021305 | 2x Scope
+1020021306 | Holographic Sight
+1020021307 | Red Dot Sight
+1020021308 | Extended Mag
+1020021309 | Quickdraw Mag
+1020021312 | Extended Quickdraw Mag
+1020021313 | Compensator
+1020021314 | Flash Hider
+1020021315 | Suppressor
+1020021316 | Angled Foregrip
+1020021317 | Thumb Grip
+1020021318 | Vertical Foregrip
+1020021322 | Laser Sight
+1020021323 | Light Grip
+1020021324 | Half Grip
+1020021325 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1102002424 | Void Souleater - UMP45 (Lv. 7)
+#----------------attachs---------#
+1020024182 | 6x Scope
+1020024183 | 4x Scope
+1020024184 | 3x Scope
+1020024185 | 2x Scope
+1020024186 | Holographic Sight
+1020024187 | Red Dot Sight
+1020024188 | Extended Mag
+1020024189 | Quickdraw Mag
+1020024190 | Extended Quickdraw Mag
+1020024192 | Compensator
+1020024193 | Flash Hider
+1020024194 | Suppressor
+1020024195 | Angled Foregrip
+1020024196 | Thumb Grip
+1020024197 | Vertical Foregrip
+1020024198 | Laser Sight
+1020024199 | Light Grip
+1020024200 | Half Grip
+1020024202 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1102003080 | Mecha Drake - Vector (Lv. 7)
+#----------------attachs---------#
+1020030744 | 4x Scope
+1020030745 | 3x Scope
+1020030746 | 2x Scope
+1020030747 | Holographic Sight
+1020030748 | Red Dot Sight
+1020030749 | Extended Mag
+1020030754 | Extended Quickdraw Mag
+1020030755 | Flash Hider
+1020030756 | Compensator
+1020030757 | Half Grip
+1020030758 | Suppressor
+1020030759 | Light Grip
+1020030760 | Vertical Foregrip
+1020030764 | 6x Scope
+1020030765 | Tactical Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1102003100 | Absolute Zero - Vector (Lv. 7)
+#----------------attachs---------#
+1020030944 | 6x Scope
+1020030945 | 4x Scope
+1020030946 | 3x Scope
+1020030947 | 2x Scope
+1020030948 | Holographic Sight
+1020030949 | Red Dot Sight
+1020030950 | Extended Mag
+1020030954 | Quickdraw Mag
+1020030955 | Extended Quickdraw Mag
+1020030956 | Flash Hider
+1020030957 | Compensator
+1020030958 | Suppressor
+1020030959 | Half Grip
+1020030960 | Light Grip
+1020030964 | Vertical Foregrip
+1020030965 | Laser Sight
+1020030966 | Canted Sight
+1020030967 | Tactical Stock
+1020030968 | Heavy Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1102005064 | Spectral Byte - PP-19 Bizon (Lv. 7)
+#----------------attachs---------#
+1020050582 | 6x Scope
+1020050583 | 4x Scope
+1020050584 | 3x Scope
+1020050585 | 2x Scope
+1020050586 | Holographic Sight
+1020050587 | Red Dot Sight
+1020050588 | Flash Hider
+1020050589 | Compensator
+1020050590 | Suppressor
+1020050592 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103001101 | Moonlit Grace - Kar98K (Lv. 7)
+#----------------attachs---------#
+1030010951 | 8x Scope
+1030010952 | 6x Scope
+1030010953 | 4x Scope
+1030010954 | Flash Hider
+1030010955 | Compensator
+1030010956 | Suppressor
+1030010957 | Cheek Pad
+1030010958 | Bullet Loops
+#--------------------------------------#
+
+#---------------skin----------#
+1103001146 | Titanium Shark - Kar98K (Lv. 7)
+#----------------attachs---------#
+1030011341 | 8x Scope
+1030011342 | 6x Scope
+1030011343 | 4x Scope
+1030011344 | Flash Hider
+1030011345 | Compensator
+1030011346 | Suppressor
+1030011347 | Cheek Pad
+1030011348 | Bullet Loops
+#--------------------------------------#
+
+#---------------skin----------#
+1103001154 | Lethal Code - Kar98K (Lv. 7)
+#----------------attachs---------#
+1030011481 | 8x Scope
+1030011482 | 6x Scope
+1030011483 | 4x Scope
+1030011484 | Flash Hider
+1030011485 | Compensator
+1030011486 | Suppressor
+1030011487 | Cheek Pad
+1030011488 | Bullet Loops
+#--------------------------------------#
+
+#---------------skin----------#
+1103001179 | Violet Volt - Kar98K (Lv. 7)
+#----------------attachs---------#
+1030011731 | 8x Scope
+1030011732 | 6x Scope
+1030011733 | 4x Scope
+1030011734 | 3x Scope
+1030011735 | 2x Scope
+1030011736 | Holographic Sight
+1030011737 | Red Dot Sight
+1030011738 | Flash Hider
+1030011739 | Compensator
+1030011741 | Suppressor
+1030011742 | Cheek Pad
+1030011743 | Canted Sight
+1030011744 | Bullet Loops
+#--------------------------------------#
+
+#---------------skin----------#
+1103001191 | Thornmaker - Kar98K (Lv. 7)
+#----------------attachs---------#
+1030011851 | 8x Scope
+1030011852 | 6x Scope
+1030011853 | 4x Scope
+1030011854 | 3x Scope
+1030011855 | 2x Scope
+1030011856 | Holographic Sight
+1030011857 | Red Dot Sight
+1030011858 | Flash Hider
+1030011859 | Compensator
+1030011861 | Suppressor
+1030011862 | Cheek Pad
+1030011863 | Canted Sight
+1030011864 | Bullet Loops
+#--------------------------------------#
+
+#---------------skin----------#
+1103001202 | Frostbite Fang - Kar98K (Lv. 8)
+#----------------attachs---------#
+1030011941 | 8x Scope
+1030011942 | 6x Scope
+1030011943 | 4x Scope
+1030011944 | 3x Scope
+1030011945 | 2x Scope
+1030011946 | Holographic Sight
+1030011947 | Red Dot Sight
+1030011948 | Flash Hider
+1030011949 | Compensator
+1030011950 | Suppressor
+1030011951 | Cheek Pad
+1030011952 | Canted Sight
+1030011953 | Bullet Loops
+#--------------------------------------#
+
+#---------------skin----------#
+1103002030 | Pharaoh's Might - M24 (Lv. 7)
+#----------------attachs---------#
+1030020242 | 8x Scope
+1030020243 | 6x Scope
+1030020244 | 4x Scope
+1030020245 | Flash Hider
+1030020246 | Compensator
+1030020247 | Suppressor
+1030020248 | Cheek Pad
+1030020249 | Extended Mag
+1030020252 | Quickdraw Mag
+1030020253 | Extended Quickdraw Mag
+1030020255 | 3x Scope
+1030020256 | 2x Scope
+1030020257 | Holographic Sight
+1030020258 | Red Dot Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103002059 | Circle of Life - M24 (Lv. 7)
+#----------------attachs---------#
+1030020532 | 8x Scope
+1030020533 | 6x Scope
+1030020534 | 4x Scope
+1030020535 | 3x Scope
+1030020536 | 2x Scope
+1030020537 | Holographic Sight
+1030020538 | Red Dot Sight
+1030020539 | Extended Mag
+1030020542 | Quickdraw Mag
+1030020543 | Extended Quickdraw Mag
+1030020544 | Flash Hider
+1030020545 | Compensator
+1030020546 | Suppressor
+1030020547 | Cheek Pad
+1030020548 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103002087 | Cadence Maestro - M24 (Lv. 7)
+#----------------attachs---------#
+1030020812 | 8x Scope
+1030020813 | 6x Scope
+1030020814 | 4x Scope
+1030020815 | 3x Scope
+1030020816 | 2x Scope
+1030020817 | Holographic Sight
+1030020818 | Red Dot Sight
+1030020824 | Flash Hider
+1030020825 | Compensator
+1030020826 | Suppressor
+1030020827 | Cheek Pad
+1030020828 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103002106 | Voidwave Trigger - M24 (Lv. 7)
+#----------------attachs---------#
+1030021002 | 8x Scope
+1030021003 | 6x Scope
+1030021004 | 4x Scope
+1030021005 | 3x Scope
+1030021006 | 2x Scope
+1030021007 | Holographic Sight
+1030021008 | Red Dot Sight
+1030021009 | Flash Hider
+1030021010 | Compensator
+1030021012 | Suppressor
+1030021013 | Cheek Pad
+1030021014 | Extended Mag
+1030021015 | Quickdraw Mag
+1030021016 | Extended Quickdraw Mag
+1030021017 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103002113 | Nightshade Dawn - M24 (Lv. 7)
+#----------------attachs---------#
+1030021072 | 8x Scope
+1030021073 | 6x Scope
+1030021074 | 4x Scope
+1030021075 | 3x Scope
+1030021076 | 2x Scope
+1030021077 | Holographic Sight
+1030021078 | Red Dot Sight
+1030021079 | Flash Hider
+1030021080 | Compensator
+1030021082 | Suppressor
+1030021083 | Cheek Pad
+1030021084 | Extended Mag
+1030021085 | Quickdraw Mag
+1030021086 | Extended Quickdraw Mag
+1030021087 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103003022 | Mauve Avenger - AWM (Lv. 7)
+#----------------attachs---------#
+1030030162 | 8x Scope
+1030030163 | 6x Scope
+1030030164 | 4x Scope
+1030030165 | Flash Hider
+1030030166 | Compensator
+1030030167 | Suppressor
+1030030169 | Extended Mag
+1030030172 | Quickdraw Mag
+1030030173 | Extended Quickdraw Mag
+#--------------------------------------#
+
+#---------------skin----------#
+1103003030 | Field Commander - AWM (Lv. 7)
+#----------------attachs---------#
+1030030242 | 8x Scope
+1030030243 | 6x Scope
+1030030244 | 4x Scope
+1030030245 | 3x Scope
+1030030246 | 2x Scope
+1030030247 | Holographic Sight
+1030030248 | Red Dot Sight
+1030030249 | Canted Sight
+1030030253 | Extended Mag
+1030030254 | Quickdraw Mag
+1030030255 | Extended Quickdraw Mag
+1030030256 | Flash Hider
+1030030257 | Compensator
+1030030258 | Suppressor
+1030030259 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103003042 | Godzilla - AWM (Lv. 7)
+#----------------attachs---------#
+1030030362 | 8x Scope
+1030030363 | 6x Scope
+1030030364 | 4x Scope
+1030030369 | Extended Mag
+1030030372 | Quickdraw Mag
+1030030373 | Extended Quickdraw Mag
+1030030374 | Flash Hider
+1030030375 | Compensator
+1030030376 | Suppressor
+1030030377 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103003051 | Rainbow Drake - AWM (Lv. 7)
+#----------------attachs---------#
+1030030452 | 8x Scope
+1030030453 | 6x Scope
+1030030454 | 4x Scope
+1030030455 | Extended Mag
+1030030456 | Quickdraw Mag
+1030030457 | Extended Quickdraw Mag
+1030030458 | Flash Hider
+1030030459 | Compensator
+1030030460 | Suppressor
+1030030463 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103003062 | Flamewave - AWM (Lv. 7)
+#----------------attachs---------#
+1030030562 | 8x Scope
+1030030563 | 6x Scope
+1030030564 | 4x Scope
+1030030565 | Extended Mag
+1030030566 | Quickdraw Mag
+1030030567 | Extended Quickdraw Mag
+1030030568 | Flash Hider
+1030030569 | Compensator
+1030030570 | Suppressor
+1030030572 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103003079 | Valor's Requiem - AWM (Lv. 7)
+#----------------attachs---------#
+1030030732 | 8x Scope
+1030030733 | 6x Scope
+1030030734 | 4x Scope
+1030030735 | 3x Scope
+1030030736 | 2x Scope
+1030030737 | Holographic Sight
+1030030738 | Red Dot Sight
+1030030739 | Canted Sight
+1030030740 | Extended Mag
+1030030742 | Quickdraw Mag
+1030030743 | Extended Quickdraw Mag
+1030030744 | Flash Hider
+1030030745 | Compensator
+1030030746 | Suppressor
+1030030747 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103003087 | Serpengleam - AWM (Lv. 7)
+#----------------attachs---------#
+1030030812 | 8x Scope
+1030030813 | 6x Scope
+1030030814 | 4x Scope
+1030030815 | 3x Scope
+1030030816 | 2x Scope
+1030030817 | Holographic Sight
+1030030818 | Red Dot Sight
+1030030819 | Canted Sight
+1030030822 | Extended Mag
+1030030823 | Quickdraw Mag
+1030030824 | Extended Quickdraw Mag
+1030030825 | Flash Hider
+1030030826 | Compensator
+1030030827 | Suppressor
+1030030828 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103004037 | Lady Carmine - SKS (Lv. 7)
+#----------------attachs---------#
+1030040312 | 8x Scope
+1030040313 | 6x Scope
+1030040314 | 4x Scope
+1030040315 | Flash Hider
+1030040316 | Compensator
+1030040317 | Suppressor
+1030040318 | Extended Quickdraw Mag (Snipers)
+1030040319 | Extended Mag (Snipers)
+1030040322 | Quickdraw Mag (Snipers)
+1030040323 | Extended Quickdraw Mag (AR)
+1030040324 | Extended Mag (AR)
+1030040325 | Quickdraw Mag (AR)
+1030040326 | Angled Foregrip
+1030040327 | Vertical Foregrip
+1030040328 | Thumb Grip
+1030040329 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103006030 | Icicle - Mini14 (Lv. 7)
+#----------------attachs---------#
+1030060242 | 8x Scope
+1030060243 | 6x Scope
+1030060244 | 4x Scope
+1030060245 | Flash Hider
+1030060246 | Compensator
+1030060247 | Suppressor
+1030060248 | Extended Quickdraw Mag (Snipers)
+1030060249 | Extended Mag (Snipers)
+1030060252 | Extended Quickdraw Mag (AR)
+1030060253 | Extended Mag (AR)
+#--------------------------------------#
+
+#---------------skin----------#
+1103007028 | Drakreign - Mk14 (Lv. 8)
+#----------------attachs---------#
+1030070212 | 8x Scope
+1030070213 | 6x Scope
+1030070214 | 4x Scope
+1030070215 | 3x Scope
+1030070216 | 2x Scope
+1030070217 | Holographic Sight
+1030070218 | Red Dot Sight
+1030070219 | Canted Sight
+1030070222 | Extended Mag (AR)
+1030070223 | Quickdraw Mag (AR)
+1030070224 | Extended Quickdraw Mag (AR)
+1030070225 | Extended Mag (Snipers)
+1030070226 | Quickdraw Mag (Snipers)
+1030070227 | Extended Quickdraw Mag (Snipers)
+1030070228 | Flash Hider (AR)
+1030070229 | Compensator (AR)
+1030070232 | Suppressor (AR)
+1030070233 | Flash Hider (Snipers)
+1030070234 | Compensator (Snipers)
+1030070235 | Suppressor (Snipers)
+1030070236 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1103012010 | Crimson Ephialtes - AMR (Lv. 8)
+#----------------attachs---------#
+1030120032 | 8x Scope
+1030120033 | 6x Scope
+1030120034 | 4x Scope
+1030120035 | 3x Scope
+1030120036 | 2x Scope
+1030120037 | Holographic Sight
+1030120038 | Red Dot Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103012019 | Scorching Blessing - AMR (Lv. 7)
+#----------------attachs---------#
+1030120132 | 8x Scope
+1030120133 | 6x Scope
+1030120134 | 4x Scope
+1030120135 | 3x Scope
+1030120136 | 2x Scope
+1030120137 | Holographic Sight
+1030120138 | Red Dot Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103012031 | Silent Departed - AMR (Lv. 7)
+#----------------attachs---------#
+1030120252 | 8x Scope
+1030120253 | 6x Scope
+1030120254 | 4x Scope
+1030120255 | 3x Scope
+1030120256 | 2x Scope
+1030120257 | Holographic Sight
+1030120258 | Red Dot Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103012039 | Pyrotechnic Chroma - AMR (Lv. 7)
+#----------------attachs---------#
+1030120333 | 8x Scope
+1030120334 | 6x Scope
+1030120335 | 4x Scope
+1030120336 | 3x Scope
+1030120337 | 2x Scope
+1030120338 | Holographic Sight
+1030120339 | Red Dot Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1103102007 | Hyperion Ship - DSR (Lv. 7)
+#----------------attachs---------#
+1031020013 | 8x Scope
+1031020014 | 6x Scope
+1031020015 | 4x Scope
+1031020016 | 3x Scope
+1031020017 | 2x Scope
+1031020018 | Holographic Sight
+1031020019 | Red Dot Sight
+1031020023 | Extended Mag
+1031020024 | Quickdraw Mag
+1031020025 | Extended Quickdraw Mag
+1031020026 | Flash Hider
+1031020027 | Compensator
+1031020028 | Suppressor
+1031020029 | Cheek Pad
+#--------------------------------------#
+
+#---------------skin----------#
+1105001034 | Party Parcel - M249 (Lv. 7)
+#----------------attachs---------#
+1050010282 | 4x Scope
+1050010283 | 3x Scope
+1050010284 | 2x Scope
+1050010285 | Holographic Sight
+1050010286 | Red Dot Sight
+1050010287 | Extended Mag
+1050010289 | Extended Quickdraw Mag
+1050010292 | Tactical Stock
+#--------------------------------------#
+
+#---------------skin----------#
+1105001048 | Moondrop Eterna - M249 (Lv. 7)
+#----------------attachs---------#
+1050010423 | 4x Scope
+1050010424 | 3x Scope
+1050010425 | 2x Scope
+1050010426 | Holographic Sight
+1050010427 | Red Dot Sight
+1050010428 | Extended Mag
+1050010429 | Quickdraw Mag
+1050010434 | Extended Quickdraw Mag
+1050010435 | Tactical Stock
+1050010436 | Gun Shield
+#--------------------------------------#
+
+#---------------skin----------#
+1105001069 | Malus Majesty - M249 (Lv. 7)
+#----------------attachs---------#
+1050010633 | 4x Scope
+1050010634 | 3x Scope
+1050010635 | 2x Scope
+1050010636 | Holographic Sight
+1050010637 | Red Dot Sight
+1050010638 | Extended Mag
+1050010639 | Quickdraw Mag
+1050010640 | Extended Quickdraw Mag
+1050010643 | Tactical Stock
+1050010644 | Gun Shield
+1050010645 | 6x Scope
+1050010646 | Canted Sight
+#--------------------------------------#
+
+#---------------skin----------#
+1105002091 | Bloodbane Parasite - DP-28 (Lv. 8)
+#----------------attachs---------#
+1050020842 | 6x Scope
+1050020843 | 4x Scope
+1050020844 | 3x Scope
+1050020845 | 2x Scope
+1050020846 | Holographic Sight
+1050020847 | Red Dot Sight
+1050020848 | Gun Shield
+#--------------------------------------#
+
+#---------------skin----------#
+1105010019 | Sky Huntress - MG3 (Lv. 7)
+#----------------attachs---------#
+1050100138 | 6x Scope
+1050100139 | 4x Scope
+1050100141 | 3x Scope
+1050100142 | 2x Scope
+1050100143 | Holographic Sight
+1050100144 | Red Dot Sight
+#--------------------------------------#
+
